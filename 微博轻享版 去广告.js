@@ -1,4 +1,4 @@
-#!name=
+#!name=微博轻享版去广告
 #!desc=
 #!homepage=
 #!author=
